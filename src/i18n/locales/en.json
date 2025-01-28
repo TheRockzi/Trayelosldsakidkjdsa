@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "title": "Effortless Moving & Storage Solutions in NY, NJ, and LA",
+    "subtitle": "Your trusted partner for seamless relocations and secure storage across major cities"
+  },
+  "quote": {
+    "title": "Get Your Free Quote",
+    "subtitle": "Tell us about your move and we'll provide a free estimate",
+    "personalInfo": "Personal Information",
+    "moveDetails": "Move Details",
+    "additionalDetails": "Additional Details",
+    "next": "Next",
+    "back": "Back",
+    "getQuote": "Get Quote",
+    "success": "Thank you! Your quote request has been sent successfully.",
+    "error": "There was an error sending your quote request. Please try again.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "fromState": "From State",
+    "fromCity": "From City",
+    "toState": "To State",
+    "toCity": "To City",
+    "selectHomeSize": "Select Home Size",
+    "studio": "Studio",
+    "oneBed": "1 Bedroom",
+    "twoBed": "2 Bedrooms",
+    "threeBed": "3 Bedrooms",
+    "fourBed": "4+ Bedrooms",
+    "office": "Office",
+    "specialItems": "I have special items (piano, art, antiques)"
+  },
+  "trust": {
+    "title": "Why Choose Us",
+    "secure": {
+      "title": "Secure Storage",
+      "description": "State-of-the-art security systems protecting your belongings"
+    },
+    "onTime": {
+      "title": "On-Time Service",
+      "description": "Punctual and efficient moving services you can rely on"
+    },
+    "professional": {
+      "title": "Professional Packing",
+      "description": "Expert packing services ensuring safe transport"
+    }
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "locations": "Locations",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "title": "Soluciones de Mudanza y Almacenamiento sin Esfuerzo en NY, NJ y LA",
+    "subtitle": "Tu socio de confianza para reubicaciones sin problemas y almacenamiento seguro en las principales ciudades"
+  },
+  "quote": {
+    "title": "Obtén tu Presupuesto Gratis",
+    "subtitle": "Cuéntanos sobre tu mudanza y te proporcionaremos un presupuesto gratuito",
+    "personalInfo": "Información Personal",
+    "moveDetails": "Detalles de la Mudanza",
+    "additionalDetails": "Detalles Adicionales",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "getQuote": "Obtener Presupuesto",
+    "success": "¡Gracias! Tu solicitud de presupuesto ha sido enviada con éxito.",
+    "error": "Hubo un error al enviar tu solicitud de presupuesto. Por favor, inténtalo de nuevo.",
+    "name": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "fromState": "Estado de Origen",
+    "fromCity": "Ciudad de Origen",
+    "toState": "Estado de Destino",
+    "toCity": "Ciudad de Destino",
+    "selectHomeSize": "Selecciona el Tamaño de la Vivienda",
+    "studio": "Estudio",
+    "oneBed": "1 Habitación",
+    "twoBed": "2 Habitaciones",
+    "threeBed": "3 Habitaciones",
+    "fourBed": "4+ Habitaciones",
+    "office": "Oficina",
+    "specialItems": "Tengo artículos especiales (piano, arte, antigüedades)"
+  },
+  "trust": {
+    "title": "Por Qué Elegirnos",
+    "secure": {
+      "title": "Almacenamiento Seguro",
+      "description": "Sistemas de seguridad de última generación protegiendo tus pertenencias"
+    },
+    "onTime": {
+      "title": "Servicio Puntual",
+      "description": "Servicios de mudanza puntuales y eficientes en los que puedes confiar"
+    },
+    "professional": {
+      "title": "Embalaje Profesional",
+      "description": "Servicios de embalaje expertos que garantizan un transporte seguro"
+    }
+  },
+  "footer": {
+    "contact": "Contáctanos",
+    "locations": "Ubicaciones",
+    "quickLinks": "Enlaces Rápidos",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados."
+  }
+}
