@@ -1,12 +1,13 @@
 import React, { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { LoadingScreen } from './components/LoadingScreen';
+import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
+import { QuoteSection } from './components/QuoteSection';
 import { TrustSection } from './components/TrustSection';
 import { AccessibilityWidget } from './components/AccessibilityWidget';
 import { FloatingContact } from './components/FloatingContact';
 import { Footer } from './components/Footer';
-import { LanguageSelector } from './components/LanguageSelector';
 
 function App() {
   const { t } = useTranslation();
@@ -18,8 +19,9 @@ function App() {
   return (
     <div className="min-h-screen bg-light">
       <LoadingScreen />
-      <LanguageSelector />
+      <Navbar />
       <Hero />
+      <QuoteSection />
       <TrustSection />
       <AccessibilityWidget />
       <FloatingContact />
@@ -28,4 +30,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
